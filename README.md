@@ -2,7 +2,7 @@
 
 A bioluminescent ASCII jellyfish aquarium that runs directly in your terminal :D
 
-![Animation Preview](assets/preview.gif)
+![Animation Preview](preview.gif)
 
 ## Features
 
